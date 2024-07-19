@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air-Fryer Chicken Strips| Odin Recipes</title>
+</head>
+<body>
+    <h1>Air-Fryer Chicken Strips</h1>
+    <img src="../recipes/Air_Fryer_Chicken_Strips.jpeg" alt="Air_Fryer_Chicken_Strips">
+
+    <h2>Description</h2>
+    <p>crave crispy chicken.</p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>1 pound chicken tenderloins</li>
+        <li>3/4 teaspoon salt</li>
+        <li>1/4 teaspoon pepper</li>
+        <li>1/2 cup panko bread crumbs</li>
+        <li>1/2 cup seasoned bread crumbs</li>
+        <li>1/2 teaspoon garlic powder</li>
+        <li>1/2 teaspoon paprika</li>
+        <li>2 large eggs, room temperature</li>
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <li>Preheat air fryer to 400°. Sprinkle chicken with salt and pepper. In a shallow bowl, combine bread crumbs, garlic powder and paprika. In another shallow bowl, whisk eggs. Dip chicken in eggs, then in crumb mixture, patting to help coating adhere.</li>
+        <li>In batches, arrange chicken in a single layer on greased tray in air-fryer basket; spritz with cooking spray. Cook until coating is golden brown and chicken is no longer pink, 7-8 minutes on each side.</li>
+    </ol>
+</body>
+</html>
